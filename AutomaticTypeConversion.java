@@ -1,4 +1,4 @@
-class test
+class AutomaticTypeConversion
 {
 	public static void main(String args[])
 	{

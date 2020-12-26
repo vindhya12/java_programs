@@ -1,4 +1,4 @@
-class AssQ3
+class PrimitiveDataTypes
 {
 	public static void main(String args[])
 	{

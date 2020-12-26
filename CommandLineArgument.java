@@ -1,4 +1,4 @@
-class AssQ5
+class CommandLineArgument
 {
 	public static void main(String args[])
 	{

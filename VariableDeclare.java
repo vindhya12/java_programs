@@ -1,4 +1,4 @@
-class AssQ1
+class VariableDeclare
 {
 	public static void main(String args[])
 	{
